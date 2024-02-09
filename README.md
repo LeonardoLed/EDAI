@@ -1,2 +1,2 @@
 # EDAI
-EDA1
+EDA1, notas del curso y algoritmos
